@@ -1,7 +1,7 @@
 {
   "lang": "en-EN",
-  "name": "Webpack Vanilla JS — Starter Template",
-  "short_name": "Webpack Vanilla JS — Starter Template",
+  "name": "Checkers",
+  "short_name": "Checkers",
   "description": "Start a Vanilla JavaScript App, SPA, landing page or website using Webpack, Babel, Core-JS, SASS / SCSS.",
   "start_url": "/",
   "display": "standalone",
@@ -11,7 +11,7 @@
   "icons": [
     {
       "src": "/favicon/favicon-192.png",
-      "sizes": "192x192",
+      "sizes": "16X16",
       "type": "image/png"
     },
     {

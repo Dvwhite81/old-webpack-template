@@ -1,5 +1,7 @@
 import './styles/global.scss';
+// Allow dist on git for vercel
 
-import { sayHello } from './utils/say-hello';
-
-sayHello();
+const container = document.querySelector('#container');
+const h1 = document.createElement('h1');
+h1.textContent = 'Setup';
+container.append(h1);
